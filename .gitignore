@@ -1,0 +1,7 @@
+// node-modules 
+Instalar asi:    npm install -- save
+
+Instalar
+    npm install body-parser --save
+    npm install express --save
+    npm install mongoose --save
